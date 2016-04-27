@@ -13,6 +13,7 @@ public class Refactorizame
     double resultado;
     int numero;
     String prueba;
+        System.out.println("pruebaaaaa");
 
     
 
