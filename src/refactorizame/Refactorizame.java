@@ -12,9 +12,9 @@ public class Refactorizame
     int opcionMenu;
     double resultado;
     int numero;
+    String prueba;
+
     
-    
-    int hola;
 
     do{
          opcionMenu = menu(leer);
